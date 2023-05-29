@@ -1,4 +1,4 @@
 # AyED
-Facundo Martinez
-Usuario github: FMartineezz
-Comision k1043
+
+Facundo Martinez /n
+Curso k1043 /n
