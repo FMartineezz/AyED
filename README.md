@@ -1,4 +1,4 @@
 # AyED
 
-Facundo Martinez /n
-Curso k1043 /n
+Facundo Martinez 
+Curso k1043
